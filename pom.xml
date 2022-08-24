@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>Xtech</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	
 	<name>Xtream-web-application</name>
 
@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>xtechApp</finalName>
 		
 		<plugins>
 			<plugin>
